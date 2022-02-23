@@ -1,0 +1,3 @@
+[submodule "bmq"]
+	path = bmq
+	url = https://github.com/beldex-coin/bmq.git
